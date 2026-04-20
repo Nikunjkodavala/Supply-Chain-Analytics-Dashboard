@@ -76,7 +76,7 @@ Refer to **queries.sql** for full SQL logic.
 
 ## 📷 Dashboard Preview
 
---- ![Dashboard](Supply Chain Dashboard.png)
+![Dashboard](Supply_Chain_Dashboard.png)
 
 ## 💡 Learnings
 
